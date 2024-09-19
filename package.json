@@ -1,0 +1,13 @@
+{
+  "name": "playwright1.0",
+  "version": "1.0.0",
+  "description": "Demo Projects",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Daniel Fuentes",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  }
+}
